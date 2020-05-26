@@ -1,0 +1,4 @@
+.greetings {
+  display: flex;
+  flex-direction: row;
+}
