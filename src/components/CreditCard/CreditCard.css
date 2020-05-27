@@ -1,0 +1,8 @@
+.credit-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.image img {
+  max-width: 80px;
+}
